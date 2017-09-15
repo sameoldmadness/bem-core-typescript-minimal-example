@@ -1,0 +1,13 @@
+{
+    "private": true,
+    "dependencies": {
+        "awesome-typescript-loader": "^3.2.3",
+        "bem-react-core": "0.2.2",
+        "typescript": "^2.5.2",
+        "webpack": "^3.6.0",
+        "webpack-bem-loader": "^0.4.1"
+    },
+    "scripts": {
+        "build": "webpack"
+    }
+}
