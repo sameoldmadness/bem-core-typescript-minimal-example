@@ -1,6 +1,6 @@
 import { decl } from 'bem-react-core';
 
-let counter = 2;
+let counter: number = 2;
 
 export default decl({
     block: 'Button',
